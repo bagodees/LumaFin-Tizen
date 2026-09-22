@@ -1,10 +1,10 @@
 {
-  "name": "jellyfin-tizen",
-  "version": "0.1.0",
-  "description": "Jellyfin for Samsung Smart TV (Tizen)",
+  "name": "lumafin-tizen",
+  "version": "0.2.0",
+  "description": "LumaFin for Samsung Smart TV (Tizen)",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jellyfin/jellyfin-tizen.git"
+    "url": "git+https://github.com/bagodees/LumaFin-Tizen.git"
   },
   "scripts": {
     "build": "gulp",
