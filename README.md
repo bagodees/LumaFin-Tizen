@@ -62,6 +62,10 @@ Notes:
   Certificate Extension) for the emulator; a plain Tizen profile has worked for sideloading onto a real TV.
 - Reinstalling over an existing install keeps your login. Uninstalling first clears it.
 
+## Support LumaFin
+
+LumaFin is maintained in spare time. If it makes your setup better, you can support ongoing improvements, testing, and maintenance through [GitHub Sponsors](https://github.com/sponsors/bagodees). Sponsorship is entirely optional — LumaFin will remain free and open source.
+
 ## Branching
 
 `lumafin-main` is the default, active branch and carries all LumaFin changes. `master` tracks upstream
